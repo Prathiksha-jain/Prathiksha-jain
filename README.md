@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Prathiksha-jain
 - 👀 I’m interested in learning computers languages.
-- 🌱 I’m currently learning bachelor of engineering computer science and engineering.
+- 🌱 I’m currently learning bachelor of engineering computer science and engineering, and I am POSTMAN STUDENT EXPERT.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me using mail:prathikshajain0007@gmail.com
 
