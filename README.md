@@ -1,13 +1,19 @@
-<!-- MasterHead Image spanning full width -->
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
+</head>
+  <body><!-- MasterHead Image spanning full width -->
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4BwEeHzS3HgDuh4TU5pRX6GvSqN5v542Jo8mVR9pubzu9so2KrcZ0V150osyXWmCuA&usqp=CAU" style="width: 100%; height: auto;">
 
-<h1 align="center">Hi 👋, I'm Prathiksha Jain</h1>
-<h3 align="center">A passionate tech enthusiast and the director of my work, crafting lines of code into a masterpiece. Though I started late, I'm determined to achieve greatness within a year.</h3>
+<h1 align="center">Hi 👋, I'm Prathiksha Jain <img alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&s" style="margin: 20px 0;">
+  </h1>
+<h3 align="center">A passionate tech enthusiast and the director of my work, crafting lines of code into a masterpiece. Though I started late, I'm determined to achieve greatness. </h3>
 
 <!-- Container to center the GIF and text -->
-<div style="display: flex; flex-direction: column; align-items: center; text-align: center;">
-  <img alt="coding" width="400" ALIGN src="https://images.static-collegedunia.com/public/image//f57c4d1979de06e49b1dd15d02ecd231.gif" style="margin: 20px 0;">
-  <div>
+
+ <div>
     <p> <img src="https://komarev.com/ghpvc/?username=prathiksha-jain&label=Profile%20views&color=0e75b6&style=flat" alt="prathiksha-jain" /> </p>
     <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathiksha-jain" alt="prathiksha-jain" /></a> </p>
     <p> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
@@ -19,7 +25,6 @@
       <li>⚡ Fun fact <strong>I like to think I'm funny!</strong></li>
     </ul>
   </div>
-</div>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -46,6 +51,8 @@
   <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
+  
+
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
 </p>
@@ -55,3 +62,7 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prathiksha-jain&show_icons=true&locale=en" alt="prathiksha-jain" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathiksha-jain&" alt="prathiksha-jain" /></p>
+
+
+  </body>
+  </html>
