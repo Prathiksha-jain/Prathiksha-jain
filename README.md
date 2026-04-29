@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/27196545/README.md)
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243e&height=280&section=header&text=AI%20Engineer&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Building%20Production-Grade%20GenAI%20Systems%20%7C%20RAG%20%7C%20LLMs%20%7C%20Backend%20Architect&descSize=17&descAlignY=60" />
