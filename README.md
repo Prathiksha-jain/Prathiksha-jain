@@ -1,68 +1,77 @@
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-QWTKZyjpPEjISv5WaRU9OFeRpok6YctnYmDr5pNlyT2bRjXh0JMhjY6hW+ALEwIH" crossorigin="anonymous">
-</head>
-  <body><!-- MasterHead Image spanning full width -->
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTY4BwEeHzS3HgDuh4TU5pRX6GvSqN5v542Jo8mVR9pubzu9so2KrcZ0V150osyXWmCuA&usqp=CAU" style="width: 100%; height: auto;">
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Prathiksha Jain <img alt="coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQsGc9AltzgXeDCjCjGgEHDrieosWwdkKL5xA&s" style="margin: 20px 0;">
-  </h1>
-<h3 align="center">A passionate tech enthusiast and the director of my work, crafting lines of code into a masterpiece. Though I started late, I'm determined to achieve greatness. </h3>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6C63FF,100:00C9A7&height=230&section=header&text=Prathiksha%20Jain&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%7C%20R%26D%20%7C%20Backend%20Developer%20%7C%20GenAI%20Enthusiast&descSize=18&descAlignY=55" />
 
-<!-- Container to center the GIF and text -->
+# Hi 👋, I'm Prathiksha Jain  
 
- <div>
-    <p> <img src="https://komarev.com/ghpvc/?username=prathiksha-jain&label=Profile%20views&color=0e75b6&style=flat" alt="prathiksha-jain" /> </p>
-    <p> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=prathiksha-jain" alt="prathiksha-jain" /></a> </p>
-    <p> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-    <ul style="list-style-type: none; padding: 0;">
-      <li>🔭 I’m currently working on <strong>CROWD FUNDING PROJECT</strong></li>
-      <li>🌱 I’m currently learning <strong>Backend development, focusing on Node.js and MongoDB.</strong></li>
-      <li>💬 Ask me about <strong>JAVA</strong></li>
-      <li>📫 How to reach me <strong>prathikshajain0007@gmail.com</strong></li>
-      <li>⚡ Fun fact <strong>I like to think I'm funny!</strong></li>
-    </ul>
-  </div>
+### 🚀 AI Engineer | R&D | GenAI | Backend Developer  
 
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://linkedin.com/in/www.linkedin.com/in/prathiksha-jain-7bb495226" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/prathiksha-jain-7bb495226" height="30" width="40" /></a>
-  <a href="https://www.youtube.com/c/www.youtube.com/@prathikshajain2269" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="www.youtube.com/@prathikshajain2269" height="30" width="40" /></a>
-  <a href="https://www.codechef.com/users/prathiksha777" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="prathiksha777" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/jainprathi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainprathi" height="30" width="40" /></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=prathiksha-jain&label=Profile%20Views&color=6C63FF&style=for-the-badge" />
 
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-  <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a>
-  
+</div>
 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-</p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=prathiksha-jain&show_icons=true&locale=en&layout=compact" alt="prathiksha-jain" /></p>
+## 💫 About Me
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=prathiksha-jain&show_icons=true&locale=en" alt="prathiksha-jain" /></p>
+- 🔭 Currently working in **AI & R&D Engineering**
+- 🤖 Building **GenAI, RAG systems, AI Agents, Backend architectures**
+- 🌱 Learning **System Design, Advanced DSA, LLM Engineering**
+- 💬 Ask me about **Python, Java, Backend, AI/ML, RAG**
+- 📫 Reach me: **prathikshajain0007@gmail.com**
+- ⚡ Fun fact: *I turn ideas into real working products*
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prathiksha-jain&" alt="prathiksha-jain" /></p>
+---
 
+## 🌐 Connect With Me
 
-  </body>
-  </html>
+<div align="center">
+
+<a href="https://www.linkedin.com/in/prathiksha-jain-7bb495226">
+  <img src="https://img.shields.io/badge/LinkedIn-Prathiksha%20Jain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="https://www.youtube.com/@prathikshajain2269">
+  <img src="https://img.shields.io/badge/YouTube-Prathiksha%20Jain-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+</a>
+
+<a href="https://www.leetcode.com/jainprathi">
+  <img src="https://img.shields.io/badge/LeetCode-jainprathi-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+
+<a href="https://www.codechef.com/users/prathiksha777">
+  <img src="https://img.shields.io/badge/CodeChef-prathiksha777-5B4638?style=for-the-badge&logo=codechef&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### 👨‍💻 Languages  
+<img src="https://skillicons.dev/icons?i=python,java,c,js,html,css,php" />
+
+### ⚙️ Backend & Databases  
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,postgres,redis" />
+
+### 🤖 AI / ML / GenAI  
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
+
+### 🧰 Tools & Platforms  
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,figma,vscode,linux" />
+
+</div>
+
+---
+
+## 🚀 What I'm Focused On
+
+```txt
+AI Engineering        ████████████████████
+GenAI & RAG           ███████████████████
+Backend Systems       ██████████████████
+DSA & Problem Solving ███████████████
+System Design         █████████████
